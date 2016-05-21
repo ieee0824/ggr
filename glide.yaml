@@ -1,0 +1,5 @@
+package: github.com/spiegel-im-spiegel/ggr
+import:
+- package: github.com/toqueteos/webbrowser
+  subpackages:
+  - github.com/toqueteos/webbrowser
