@@ -1,0 +1,9 @@
+hash: aec1885276f16925f37e066bd02be3f025dd695b05bd29ef0d639993b2596b56
+updated: 2016-05-21T14:51:32.0672387+09:00
+imports:
+- name: github.com/toqueteos/webbrowser
+  version: 21fc9f95c83442fd164094666f7cb4f9fdd56cd6
+  subpackages:
+  - github.com/toqueteos/webbrowser
+  - github.com\toqueteos\webbrowser
+devImports: []
